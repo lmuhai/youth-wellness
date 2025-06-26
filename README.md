@@ -72,8 +72,6 @@ This research project investigates youth mental health trends and harmful behavi
 <img src="figures/tiktok_sentiment_score_distribution_by_topic_1.png" width="1000">
 <img src="figures/tiktok_sentiment_score_distribution_by_topic_2.png" width="1000">
 
-> Note: Image quality is reduced for now; a higher-resolution version will be added soon.
-
 #### Figure 3.4: YouTube Shorts
 <img src="figures/youtube_sentiment_score_distribution_by_topic.png" width="1000">
 

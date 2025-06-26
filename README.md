@@ -26,7 +26,7 @@ The presence of both tightly connected clusters and weakly related topics sugges
 #### Figure 1.1: Reddit
 <img src="figures/reddit_topic_similarity_matrix.png" width="1000">
 
-Topics like “calories_exercise_weight_miles” and “weight_calories_deficit_week” show significant similarity (likely 0.8), suggesting overlapping discussions around diet and physical health. Similarly, topics like “west_immigrants_migrants_nations” and “dose_effects_dph_doses” have no similarities, hence a lighter green color with a score of 0.
+Topics like “calories_exercise_weight_miles” and “weight_calories_deficit_week” show significant similarity (around 0.8), suggesting overlapping discussions around diet and physical health. Similarly, topics like “west_immigrants_migrants_nations” and “dose_effects_dph_doses” have no similarities, hence a lighter green color with a score of 0.
 
 
 #### Figure 1.2: TikTok
